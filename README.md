@@ -14,16 +14,7 @@ This is a simple Todo List app that allows you to keep track of your daily tasks
 - Save tasks to local storage
 - Light/dark mode
 
-## Installation
 
-To get started with this project, follow these steps:
-
-1. Clone this repository to your local machine using git clone https://github.com/RaminMikayilov/Redux-Todo-List.git
-2. Navigate to the project directory using cd redux-todo-list
-3. Install the necessary dependencies using npm install
-4. Start the development server using npm run dev(because I use vite react)
-
-The app should now be running on localhost
 
 ## Usage
 
@@ -48,6 +39,3 @@ If you'd like to contribute to this project, please follow these steps:
 4. Push to the branch (git push origin feature/your-feature-name)
 5. Create a new pull request
 
-## License
-
-This project is licensed under the MIT License - [MIT](https://choosealicense.com/licenses/mit/)
